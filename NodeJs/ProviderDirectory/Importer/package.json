@@ -1,0 +1,9 @@
+{
+  "name": "NPI-Data-Importer",
+  "description": "A tool for importing NPI data into a database",
+  "author": "Nelson Wells <nelsonwellswku@gmail.com>",
+  "dependencies": {
+    "fast-csv": ">= 0.0.x"
+  },
+  "engine": "node 0.10.x"
+}
